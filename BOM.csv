@@ -1,0 +1,14 @@
+BOM,Column1,Column2,Column3
+Item,Quantity,cost (each),already owned
+esp32,1,$7.75 ,Y
+motor controller,1,$5 ,Y
+battery,1,$10 ,Y
+bearings,2,$13.89 ,N
+motors,2,$12.59 ,N
+axles,-,-,Y
+IMU,1,$7 ,Y
+3D prints,-,-,Y
+total,,$82.71 ,$52.96 
+,,,
+total funding needed:,,$52.96 ,
+rest will be 3d printed.,,,
