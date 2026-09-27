@@ -4,12 +4,12 @@ esp32,1 ,$7.75 ,Y ,https://a.co/d/00w2nvGF
 motor controller,1 ,$5 ,Y ,https://www.amazon.com/dp/B0G1S7MJ7R?ref_=cm_sw_r_cp_ud_dp_FK48A15XJB3GACBHEM0P_1
 buck converter,1 ,$8 ,Y ,https://www.amazon.com/dp/B0GKFVY9TQ?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_0E00MD53B00Z8M04D36S
 battery,1,$10 ,Y ,https://www.amazon.com/dp/B0B5GJ9NBS?ref_=cm_sw_r_cp_ud_dp_NDTJ58YYYSST67TKCHCD
-bearings,2,$13.89 ,N ,https://www.amazon.com/dp/B07RQ4RXDR?ref_=cm_sw_r_cp_ud_dp_XS29439M6VXE3JYQ96FW
-motors,2,$12.59 ,N ,https://www.amazon.com/dp/B0GX1Q3781?ref_=cm_sw_r_cp_ud_dp_NHFMKCKR78YN8PMY42XB
+bearings,2,$14.59 ,N ,https://www.amazon.com/dp/B07RQ4RXDR?ref_=cm_sw_r_cp_ud_dp_XS29439M6VXE3JYQ96FW
+motors,2,$7 ,N ,https://www.aliexpress.us/item/3256812376241782.html?spm=a2g0o.productlist.main.1.612f6c8dFLNq9F&algo_pvid=f79bc743-48b6-44ae-83d8-39983d1379a7&algo_exp_id=f79bc743-48b6-44ae-83d8-39983d1379a7-0&pdp_ext_f=%7B%22order%22%3A%2214%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.71%211.09%21%21%2144.85%217.29%21%402101e56817904836467746496e0f32%2112000058725730934%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6c4390f8%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=bmF97U3oed12&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012562556534%7C_p_origin_prod%3A
 axles,-,-,Y ,NA
 IMU,1,$7 ,Y ,https://www.amazon.com/dp/B00LP25V1A?ref_=cm_sw_r_cp_ud_dp_7Y4V3VDGC6N09KKGH3BJ
 3D prints,-,-,Y ,NA
-total,,$82.71 ,$52.96 ,
+total,,$80.93 ,$43.18 ,
 ,,,,
 total funding needed:,,$52.96 ,,
 rest will be 3d printed.,,,,
