@@ -1,14 +1,14 @@
-BOM,Column1,Column2,Column3
-Item,Quantity,cost (each),already owned
-esp32,1,$7.75 ,Y
-motor controller,1,$5 ,Y
-buck converter,1,$8 ,Y
-battery,1,$10 ,Y
-bearings,2,$13.89 ,N
-motors,2,$12.59 ,N
-axles,-,-,Y
-IMU,1,$7 ,Y
-3D prints,-,-,Y
+BOM,Column1,Column2,Column3,column4
+Item,Quantity,cost (each),already owned,links
+esp32,1,$7.75 ,Y ,https://a.co/d/00w2nvGF
+motor controller,1,$5 ,Y ,https://www.amazon.com/dp/B0G1S7MJ7R?ref_=cm_sw_r_cp_ud_dp_FK48A15XJB3GACBHEM0P_1
+buck converter,1,$8 ,Y ,https://www.amazon.com/dp/B0GKFVY9TQ?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_0E00MD53B00Z8M04D36S
+battery,1,$10 ,Y ,https://www.amazon.com/dp/B0B5GJ9NBS?ref_=cm_sw_r_cp_ud_dp_NDTJ58YYYSST67TKCHCD
+bearings,2,$13.89 ,N ,https://www.amazon.com/dp/B07RQ4RXDR?ref_=cm_sw_r_cp_ud_dp_XS29439M6VXE3JYQ96FW
+motors,2,$12.59 ,N ,https://www.amazon.com/dp/B0GX1Q3781?ref_=cm_sw_r_cp_ud_dp_NHFMKCKR78YN8PMY42XB
+axles,-,-,Y ,NA
+IMU,1,$7 ,Y ,https://www.amazon.com/dp/B00LP25V1A?ref_=cm_sw_r_cp_ud_dp_7Y4V3VDGC6N09KKGH3BJ
+3D prints,-,-,Y ,NA
 total,,$82.71 ,$52.96 
 ,,,
 total funding needed:,,$52.96 ,
