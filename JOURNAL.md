@@ -8,6 +8,7 @@ created_at: "2026-11-02"
 # November 2nd: Moved to forge
 
 I started out everything in Stardance, but my project never got reviewed, so I moved it here, below are all of my previous dev logs and info
+<img width="603" height="417" alt="image" src="https://github.com/user-attachments/assets/0a170bfa-a353-4288-a78c-a2b64ed2b4c9" />
 
 **Total time spent: 11 hours**
 
