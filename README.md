@@ -5,3 +5,6 @@ Hi, I am currently working on making a remote control roll of filament, (basical
  # here is the main link to access and view the cad
 https://cad.onshape.com/documents/7ec4daa396b7df226e265e23/w/d62ec7d41c6cd38fede57212/e/7cfedde30ad1107b578ecdf8?renderMode=0&uiState=6aab46d43292093e6628473c
 <img width="1127" height="900" alt="Screenshot 2026-09-16 202928" src="https://github.com/user-attachments/assets/93cd29b4-bad1-4cf1-94a2-66a46aec1376" />
+
+# wiring schematic
+<img width="1143" height="818" alt="image" src="https://github.com/user-attachments/assets/3224ec91-0424-49b3-9945-49bcfd0fd7c0" />
